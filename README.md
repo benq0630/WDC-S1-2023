@@ -1,6 +1,6 @@
 # WDC-S1-2023
 
-#Web applications have become the cornerstone of the modern Internet.
+Web applications have become the cornerstone of the modern Internet.
 
 This course will give you a ground-up introduction to fundamental networking and Internet principles, full-stack web application development, databases, and web security.
 
